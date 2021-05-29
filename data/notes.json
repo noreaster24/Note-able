@@ -1,0 +1,12 @@
+{
+    "notes": [
+        {
+            "title": "Test Title",
+            "text": "Test text"
+        },
+        {
+            "title": "Sample",
+            "text": "This is sample text to make sure this works!"
+        }
+    ]
+}
