@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "id": "2",
+      "title": "Sample",
+      "text": "This is sample text to make sure this works!"
+    },
+    {
+      "id": "3",
+      "title": "insomnia",
+      "text": "this is a note to confirm insomnia is working correctly"
+    },
+    {
+      "title": "Insomnia Test",
+      "text": "This note was added using Insomnia Core",
+      "id": "3"
+    },
+    {
+      "title": "another test",
+      "text": "trying another note",
+      "id": "4"
+    },
+    {
+      "title": "another test",
+      "text": "trying another note",
+      "id": "5"
+    },
+    {
+      "title": "final test",
+      "text": "trying another note",
+      "id": "6"
+    },
+    {
+      "title": "Sample Note",
+      "text": "This is a test note to see if anything is working properly!",
+      "id": "7"
+    },
+    {
+      "title": "Added through website",
+      "text": "Did this work?!?!?!?!",
+      "id": "8"
+    }
+  ]
+}
