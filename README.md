@@ -14,7 +14,7 @@
 ## URL: https://gentle-reef-45514.herokuapp.com/
 
 ![Landing Page](./public/assets/landing-page.png)
-![Landing Page](./public/assets/notes-page.png)
+![Notes Page](./public/assets/notes-page.png)
 
 ### User Story
 AS A small business owner
