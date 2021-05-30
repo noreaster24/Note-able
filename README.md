@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker README
 
 ## How To Use 
 * When the page opens, select 'Get Started' where you will be taken to the note taking home page
