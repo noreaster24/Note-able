@@ -1,4 +1,20 @@
-# Note Taker Starter Code
+# Note Taker README
+
+## How To Use 
+* When the page opens, select 'Get Started' where you will be taken to the note taking home page
+* You are immediately prompted with a blank note page
+    - Add a note title
+    - Fill out the note body with the desired notes
+* When done with the note, select the save icon in the top right
+* Your note will be saved and you added to the column on the left side of the page
+* To view a previous note, select the note from the left-hand column
+* The note will open and you can edit the note
+* Select the save icon again to resave the note
+
+## URL: https://gentle-reef-45514.herokuapp.com/
+
+![Landing Page](./public/assets/landing-page.png)
+![Landing Page](./public/assets/notes-page.png)
 
 ### User Story
 AS A small business owner
